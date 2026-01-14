@@ -6,7 +6,7 @@ Projects answering real-world business questions
 - CTEs & Subqueries
 - Date & Time Analysis
 - Business Insight Generation
-- 
+
 ## Projects
 
 ### 1. Top Product Categories by Items Sold
